@@ -1,0 +1,7 @@
+Thu, 27 Jun 2019 15:27:43 autoreload.py[line:584] INFO Watching for file changes with StatReloader
+Thu, 27 Jun 2019 15:27:47 log.py[line:228] WARNING Not Found: /
+Thu, 27 Jun 2019 15:27:48 log.py[line:228] WARNING Not Found: /favicon.ico
+Thu, 27 Jun 2019 15:28:10 log.py[line:228] WARNING Not Found: /login
+Thu, 27 Jun 2019 15:28:18 log.py[line:228] WARNING Not Found: /login
+Thu, 27 Jun 2019 15:28:28 log.py[line:228] WARNING Not Found: /login
+Thu, 27 Jun 2019 15:28:38 log.py[line:228] WARNING Not Found: /setup
